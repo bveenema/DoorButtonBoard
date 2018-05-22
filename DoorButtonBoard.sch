@@ -61,15 +61,15 @@ F 4 "APA102C" H 4100 1900 60  0001 C CNN "MPN"
 	1    0    0    1   
 $EndComp
 $Comp
-L Conn_01x04 J1
+L CONN_01X04 J1
 U 1 1 5B029050
-P 2900 1950
-F 0 "J1" H 2900 2200 50  0000 C CNN
-F 1 "Conn_01x04" H 2900 1650 50  0000 C CNN
-F 2 "Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled" H 2900 1950 50  0001 C CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf" H 2900 1950 50  0001 C CNN
-F 4 "S4B-PH-K-S(LF)(SN)" H 2900 1950 60  0001 C CNN "MPN"
-	1    2900 1950
+P 2900 1900
+F 0 "J1" H 2900 2150 50  0000 C CNN
+F 1 "Conn_01x04" H 2900 1600 50  0000 C CNN
+F 2 "Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled" H 2900 1900 50  0001 C CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf" H 2900 1900 50  0001 C CNN
+F 4 "S4B-PH-K-S(LF)(SN)" H 2900 1900 60  0001 C CNN "MPN"
+	1    2900 1900
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
@@ -339,7 +339,7 @@ $EndComp
 Wire Wire Line
 	5250 4250 5250 4400
 $Comp
-L Conn_01x02 J2
+L CONN_01X02 J2
 U 1 1 5B029FEB
 P 6950 4800
 F 0 "J2" H 6950 4950 50  0000 C CNN
@@ -480,15 +480,15 @@ F 4 "APA102C" H 6900 1900 60  0001 C CNN "MPN"
 	1    0    0    1   
 $EndComp
 $Comp
-L Conn_01x04 J3
+L CONN_01X04 J3
 U 1 1 5B03DF6D
-P 8200 1850
-F 0 "J3" H 8200 2100 50  0000 C CNN
-F 1 "Conn_01x04" H 8200 1550 50  0000 C CNN
-F 2 "Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled" H 8200 1850 50  0001 C CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf" H 8200 1850 50  0001 C CNN
-F 4 "S4B-PH-K-S(LF)(SN)" H 8200 1850 60  0001 C CNN "MPN"
-	1    8200 1850
+P 8200 1900
+F 0 "J3" H 8200 2150 50  0000 C CNN
+F 1 "Conn_01x04" H 8200 1600 50  0000 C CNN
+F 2 "Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled" H 8200 1900 50  0001 C CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf" H 8200 1900 50  0001 C CNN
+F 4 "S4B-PH-K-S(LF)(SN)" H 8200 1900 60  0001 C CNN "MPN"
+	1    8200 1900
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
